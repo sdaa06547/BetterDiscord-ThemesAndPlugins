@@ -10,12 +10,12 @@
 @import url('https://raw.githubusercontent.com/empTheGoat/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
 
 :root{
-    --background: url('https://media.tenor.com/1MoRcvgv27YAAAAC/snow-anime.gif');
+    --background: url('https://i.pinimg.com/originals/7f/a2/43/7fa243b1a78cc227e3fed2d878cfecc8.gif');
     --activetext-colour: white;
 
-    --primary1-colour: red;
-    --primary2-colour: rgba(254,0,0.5);
-    --primary3-colour: rgba(100,0,0,0.6);
+    --primary1-colour: blue;
+    --primary2-colour: rgba(255,255,255.5);
+    --primary3-colour: rgba(255,255,255,0.6);
 
     --secondary1-colour: rgba(50,50,50,0.3);
     --secondary2-colour: rgba(100,100,100,0.5);
